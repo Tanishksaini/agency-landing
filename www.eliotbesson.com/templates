@@ -1,0 +1,1233 @@
+<!DOCTYPE html><!-- Last Published: Thu Jul 10 2025 14:58:24 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.eliotbesson.com" data-wf-page="6823408ce3f1736634a5ae3b" data-wf-site="677fb4d34764579513f06df6" lang="en"><head><meta charset="utf-8"/><title>Webflow Templates - Eliot Besson</title><meta content="Explore +20 ready-made webflow templates for websites that stand out." name="description"/><meta content="Webflow Templates - Eliot Besson" property="og:title"/><meta content="Explore +20 ready-made webflow templates for websites that stand out." property="og:description"/><meta content="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682f12b0fb5cd15c2a9ebb0b_open-graph-img.jpg" property="og:image"/><meta content="Webflow Templates - Eliot Besson" property="twitter:title"/><meta content="Explore +20 ready-made webflow templates for websites that stand out." property="twitter:description"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/css/eliot-25.shared.6d808f0c8.min.css" rel="stylesheet" type="text/css"/><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682f0ff39c3ff657ab8cdbcf_pf-favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682f0f57429196dd83fa1103_Webclip%20(2).png" rel="apple-touch-icon"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-NL2XKT2S1E"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZGVlNj', true);gtag('config', 'G-NL2XKT2S1E');</script><style>
+[data-hidden] {
+  visibility: hidden;
+}
+.marquee_corner {
+    display: none;
+}
+
+@media (min-width: 1800px) {
+    .marquee_corner {
+        display: block;
+    }
+}
+
+.marquee_item {
+  transition: opacity 0.2s ease;
+}
+
+.filter-label_ab {
+  transform: translateY(100%);
+  opacity: 0;
+}
+
+.template-filter_trigger {
+  transition: padding-right 0.5s cubic-bezier(.16, 1, .3, 1),
+    padding-left 0.5s cubic-bezier(.16, 1, .3, 1),
+    border-color 0.4s cubic-bezier(.16, 1, .3, 1);
+
+}
+
+.template-filter_trigger:hover {
+  padding-left: 0.875em;
+  padding-right: 0.875em;
+  border-color: rgba(250, 250, 250, 0.16);
+
+}
+
+/* Template Cards Hover*/
+@media (min-width: 992px) {
+  .template_item-img-w {
+    transition: transform 0.5s cubic-bezier(.16, 1, .3, 1);
+  }
+
+  .template_blur-hover {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .template_link:hover .template_item-img-w {
+    transform: scale(0.95);
+  }
+
+  .template_link:hover .template_blur-hover {
+    opacity: 1;
+  }
+
+  .template-filter_panel {
+    transform: scale(0.4);
+    opacity: 0,
+
+  }
+}
+</style>
+
+<!-- Finsweet Attributes -->
+<script async type="module"
+src="https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/attributes.js"
+fs-list
+></script></head><body><div class="contact_component"><div class="contact_bg-wrap"><div class="contact_bg"></div></div><div class="contact_wrap"><a data-scroll="start" data-cursor="close" href="templates#" class="contact_close-w w-inline-block"><div class="contact_close-btn"><div class="icon_embed20"><div class="svg-icon w-embed"><svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4.86621 4.61621C5.32387 4.15855 6.04809 4.12979 6.53906 4.53027L6.63379 4.61621L19.1338 17.1162L19.2197 17.2109C19.6202 17.7019 19.5915 18.4261 19.1338 18.8838C18.6761 19.3415 17.9519 19.3702 17.4609 18.9697L17.3662 18.8838L4.86621 6.38379L4.78027 6.28906C4.37979 5.79809 4.40855 5.07387 4.86621 4.61621Z" fill="#FAFAFA"/>
+<path d="M19.1338 4.61621C18.6761 4.15855 17.9519 4.12979 17.4609 4.53027L17.3662 4.61621L4.86621 17.1162L4.78027 17.2109C4.37979 17.7019 4.40855 18.4261 4.86621 18.8838C5.32387 19.3415 6.04809 19.3702 6.53906 18.9697L6.63379 18.8838L19.1338 6.38379L19.2197 6.28906C19.6202 5.79809 19.5915 5.07387 19.1338 4.61621Z" fill="#FAFAFA"/>
+</svg></div></div></div></a><div class="contact_main"><div data-lenis-prevent="" class="contact_inner"><div class="contact_main-top"><h4 class="title-l">get in touch</h4><div class="contact_form-block w-form"><form id="wf-form-Contact-Form" name="wf-form-Contact-Form" data-name="Contact Form" method="get" class="contact_form" data-wf-page-id="6823408ce3f1736634a5ae3b" data-wf-element-id="aceaa5dd-0a41-602a-7df9-a52efa14d43e"><div class="w-layout-grid form_fields-grid"><div class="form-field_component"><div class="field_label"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682edf6631580393fef30a86_profile-v2.json" class="field_lottie"></div><label for="name-2" class="txt-size-s txt-caps">Name<span class="txt-color-light-60o">*</span></label></div><input class="field_input w-input" maxlength="256" name="Name" data-name="Name" placeholder="Full Name" type="text" id="Name"/></div><div class="form-field_component"><div class="field_label"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/68273156c7716cc91e9d2192_mail%20(1).json" class="field_lottie"></div><label for="name-2" class="txt-size-s txt-caps">email<span class="txt-color-light-60o">*</span></label></div><input class="field_input w-input" maxlength="256" name="Email" data-name="Email" placeholder="exemple@mail.com" type="email" id="Email"/></div></div><div class="form-field_component"><div class="field_label"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682731560bfd5d0633b391ec_services.json" class="field_lottie"></div><label for="name-2" class="txt-size-s txt-caps">services needed<span class="txt-color-light-60o">*</span></label></div><div class="w-layout-grid form_radio-grid"><label class="field_radio-button w-radio"><div class="w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-button w-radio-input"></div><input type="radio" name="Services" id="Design" data-name="Services" style="opacity:0;position:absolute;z-index:-1" value="Design"/><span class="txt-color-light-60o w-form-label" for="Design">Design</span></label><label class="field_radio-button w-radio"><div class="w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-button w-radio-input"></div><input type="radio" name="Services" id="Webflow" data-name="Services" style="opacity:0;position:absolute;z-index:-1" value="Webflow"/><span class="txt-color-light-60o w-form-label" for="Webflow">Webflow</span></label><label class="field_radio-button w-radio"><div class="w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-button w-radio-input"></div><input type="radio" name="Services" id="Design-Webflow" data-name="Services" style="opacity:0;position:absolute;z-index:-1" value="Design + Webflow"/><span class="txt-color-light-60o w-form-label" for="Design-Webflow">Design + Webflow</span></label><label class="field_radio-button w-radio"><div class="w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-button w-radio-input"></div><input type="radio" name="Services" id="Other" data-name="Services" style="opacity:0;position:absolute;z-index:-1" value="Other"/><span class="txt-color-light-60o w-form-label" for="Other">Other</span></label></div></div><div class="form-field_component"><div class="field_label"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/68273156c032f162aff3a4ab_message.json" class="field_lottie"></div><label for="name-2" class="txt-size-s txt-caps">message<span class="txt-color-light-60o">*</span></label></div><textarea id="Message-2" name="Message" maxlength="5000" data-name="Message" placeholder="Tell me more about your project. Don’t hesitate to include links if necessary." required="" class="field_input text_area w-input"></textarea></div><div class="form_button-trigger"><input type="submit" data-wait="Please wait..." class="form_button w-button" value="Send Message"/></div></form><div class="contact_success w-form-done"><div class="contact_success-inner"><h4 class="title-s">Thanks for reaching out!</h4><div class="txt-size-s txt-caps opacity60">I’ll get back to you within a day.</div></div></div><div class="contact_error w-form-fail"><div class="txt-color-dark txt-caps txt-size-s txt-align-center">Oops! Something went wrong while submitting the form.<br/><span class="txt-color-dark-60o">please try again later</span></div></div></div></div><div class="contact_main-border"></div><div class="divider is_contact"></div><a href="mailto:bessoneliot@gmail.com" class="form_alternative-w w-inline-block"><div class="txt-size-s txt-caps opacity60">don&#x27;t like forms ?</div><div class="form_alternative-link txt-underline"><div class="icon_embed20"><div class="svg-icon w-embed"><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.6133 6.88379L13.2266 12.874C12.8191 13.1651 12.2803 13.1834 11.8564 12.9287L11.7734 12.874L3.38672 6.88379L4.11328 5.86621L12.5 11.8574L20.8867 5.86621L21.6133 6.88379Z" fill="#FAFAFA"/>
+<path d="M4.375 18.875H20.625V6.375H4.375V18.875ZM21.875 19.1875C21.875 19.7053 21.4553 20.125 20.9375 20.125H4.0625C3.54473 20.125 3.125 19.7053 3.125 19.1875V6.0625C3.125 5.54473 3.54473 5.125 4.0625 5.125H20.9375C21.4553 5.125 21.875 5.54473 21.875 6.0625V19.1875Z" fill="#FAFAFA"/>
+</svg></div></div><div class="txt-size-s txt-caps">send an email</div></div></a></div><div class="contact_form-overlay"></div></div></div></div><div class="global_styles"><div class="w-embed"><style>
+
+* {
+  -webkit-font-smoothing: antialiased;  
+  -moz-osx-font-smoothing: grayscale;   
+}  
+
+html { font-size: calc(0.4375rem + 0.625vw); } 
+@media screen and (min-width: 1800px) { 
+  html { font-size: 1.125rem; }  /* 16px for screens larger than 1600px */
+}/* 16px at 1440px */
+@media screen and (min-width: 1600px) { 
+  html { font-size: 1vw; }  /* 16px for screens larger than 1600px */
+}
+
+@media screen and (min-width: 1800px) { 
+  html { font-size: 1.125rem; }  /* 16px for screens larger than 1600px */
+}
+
+@media screen and (max-width: 992px) { 
+  html { font-size: 1rem; }  /* 16px for screens smaller than 960px */
+}
+@media screen and (max-width: 479px) { 
+  html { font-size: 1rem; }  /* 16px for screens smaller than 479px */
+}  
+
+a {
+ 		color: inherit;
+    text-decoration:none;
+}
+
+.w-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+[class*="svg-icon"] svg { width: 100% !important; height: 100% !important; }
+[class*="svg-icon"] * { fill: currentColor !important; }       
+
+body:has([data-cursor]:hover) .cursor { 
+  opacity: 1;
+}
+
+/* Remove default placeholder background color */
+input::placeholder, 
+textarea::placeholder {
+    background-color: transparent !important;
+    color: inherit;
+}
+
+</style></div></div><menu data-hidden="" class="menu"><div class="menu_inner"><a aria-label="Go to homepage" id="w-node-bd053704-fb67-3f28-b2d5-4e71e37d6052-e37d6050" data-w-id="bd053704-fb67-3f28-b2d5-4e71e37d6052" href="index.html" class="menu_logo-link w-inline-block"><div class="menu_logo-embed w-embed"><svg width="100%" height="100%" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.4921 5.90108C29.5615 3.93855 25.9953 3.51434 23.6205 3.74415L23.5605 3.74997H23.5001C18.001 3.74997 13.9141 6.63433 10.9862 10.3931C8.04306 14.1715 6.35943 18.7357 5.72325 21.7575C4.43671 27.8685 5.68378 31.7647 7.34984 34.3282C9.07161 36.9776 12.1641 38.5894 15.4887 39.069C23.8595 40.2764 29.393 36.5106 32.8916 31.6019C36.446 26.6148 37.8203 20.5333 37.7505 17.529L37.7501 17.5145V17.5C37.7501 11.2786 35.344 7.81094 32.4921 5.90108ZM40.2501 17.4858C40.2464 10.5156 37.4871 6.23735 33.8832 3.82385C30.3808 1.47838 26.2318 0.992536 23.4402 1.25007C16.97 1.27119 12.2428 4.71172 9.01396 8.85682C5.79044 12.9951 3.97405 17.9309 3.27687 21.2425C1.86283 27.9591 3.20437 32.5373 5.25363 35.6906C7.47001 39.1009 11.3035 40.9911 15.1318 41.5434C24.62 42.912 31.0077 38.5525 34.9274 33.0529C38.7859 27.6392 40.3281 21.0404 40.2501 17.4858Z" fill="currentcolor"/>
+<path d="M19.0996 35C15.4009 35 13.5516 32.9546 14.0928 29.6818L16.9345 13.6818C17.566 10 20.1371 8.00001 23.7907 8.00001C27.4443 8.00001 29.5192 9.9091 28.8877 13.6818L27.3541 22.2273H20.4528L19.1448 29.6818C19.0094 30.5455 18.9192 31.3636 19.7762 31.3636C20.6784 31.3636 20.9039 30.5 21.0392 29.6364L22.0767 23.7273H27.0835L26.046 29.6364C25.5048 33 22.7533 35 19.0996 35ZM20.9941 19H22.8886L23.8358 13.6364C24.0162 12.5455 24.0614 11.7727 23.2494 11.7727C22.3924 11.7727 22.1218 12.5455 21.9414 13.6364L20.9941 19Z" fill="currentcolor"/>
+</svg></div><div data-is-ix2-target="1" class="menu_logo-lottie" data-w-id="bd053704-fb67-3f28-b2d5-4e71e37d6054" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/67e2da4fcd20f511c6061796_Menu%20Logo.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="0" data-duration="1.1"></div></a><div class="menu_links hide-mobile-l"><a href="index.html" class="menu_link w-inline-block"><p class="txt-size-s">home</p></a><a href="works" class="menu_link w-inline-block"><p class="txt-size-s">works</p></a><a href="about" class="menu_link w-inline-block"><p class="txt-size-s">about</p></a><a href="templates" aria-current="page" class="menu_link w-inline-block w--current"><p class="txt-size-s">templates</p></a></div><div class="menu_main-inner"><div class="menu_button-w"><a data-scroll="stop" contact-trigger="" href="templates#" class="button-dark w-inline-block"><div class="button_bg-dark"></div><div class="button_in is-lottie"><div data-is-ix2-target="1" class="button_lottie" data-w-id="bd053704-fb67-3f28-b2d5-4e71e37d6067" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/67d02290066d5ae0097618bc_Contact%20V4.json" data-loop="1" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="0" data-duration="1.25"></div><div class="button_labels-wrap"><div class="button_label-relative"><div class="txt-button">Contact</div></div><div class="button_label-absolute"><div class="txt-button">Contact</div></div></div></div></a></div><div data-scroll="toggle" data-w-id="bd053704-fb67-3f28-b2d5-4e71e37d606f" class="menu_burger"><div data-is-ix2-target="1" class="menu_burger-lottie" data-w-id="bd053704-fb67-3f28-b2d5-4e71e37d6070" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/67e6c0538c06f9b6ac4743c3_a97c2a6d56756ebedf32a01f63edb633_Menu%20Burger.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="1" data-duration="0"></div></div></div></div><div class="menu_overlay"></div><div class="menu_full"><div class="menu_full-w txt-color-dark"><div class="menu_full-links"><a href="index.html" class="menu_full-link">home</a><a href="works" class="menu_full-link">works</a><a href="about" class="menu_full-link">about</a><a href="templates" aria-current="page" class="menu_full-link w--current">templates</a><a contact-trigger="" href="templates#" class="menu_full-link">contact</a></div><div class="menu_full-social-links"><a href="https://www.linkedin.com/in/eliot-besson-52505812a/" target="_blank" class="footer_social-link w-inline-block"><div class="icon_embed20"><div class="svg-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.1111 17.8573H3.88885C2.92455 17.8573 2.14282 17.0756 2.14282 16.1113V3.8891C2.14282 2.92479 2.92455 2.14307 3.88885 2.14307H16.1111C17.0754 2.14307 17.8571 2.92479 17.8571 3.8891V16.1113C17.8571 17.0756 17.0754 17.8573 16.1111 17.8573ZM13.3426 15.675H15.6745V10.8846C15.6745 8.85768 14.5256 7.87767 12.9207 7.87767C11.3151 7.87767 10.6394 9.12798 10.6394 9.12798V8.10882H8.39212V15.675H10.6394V11.7032C10.6394 10.639 11.1293 10.0057 12.0669 10.0057C12.9289 10.0057 13.3426 10.6143 13.3426 11.7032V15.675ZM4.32532 5.72193C4.32532 6.49294 4.94561 7.1181 5.71109 7.1181C6.47657 7.1181 7.0965 6.49294 7.0965 5.72193C7.0965 4.95091 6.47657 4.32575 5.71109 4.32575C4.94561 4.32575 4.32532 4.95091 4.32532 5.72193ZM6.89404 15.675H4.55068V8.10882H6.89404V15.675Z" fill="#171717"/>
+</svg></div></div><div class="social_link-tag-w"><div class="social-link-tag"><p>linkedin</p></div></div></a><a href="https://www.linkedin.com/in/eliot-besson-52505812a/" target="_blank" class="footer_social-link w-inline-block"><div class="icon_embed20"><div class="svg-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 9.92857C1 8.30952 1.39882 6.81548 2.19643 5.44643C2.99405 4.07738 4.07739 2.99405 5.44643 2.19643C6.81548 1.3988 8.30954 1 9.92857 1C11.5476 1 13.0417 1.3988 14.4107 2.19643C15.7798 2.99405 16.8631 4.07738 17.6607 5.44643C18.4583 6.81548 18.8571 8.30952 18.8571 9.92857C18.8571 11.5476 18.4583 13.0417 17.6607 14.4107C16.8631 15.7798 15.7798 16.8631 14.4107 17.6607C13.0417 18.4583 11.5476 18.8571 9.92857 18.8571C8.30954 18.8571 6.81548 18.4583 5.44643 17.6607C4.07739 16.8631 2.99405 15.7798 2.19643 14.4107C1.39882 13.0417 1 11.5476 1 9.92857ZM2.48214 9.92857C2.48214 11.7857 3.10714 13.4226 4.35714 14.8393C4.92857 13.7202 5.83334 12.6548 7.07143 11.6429C8.30954 10.6309 9.51786 9.99406 10.6964 9.73215C10.5179 9.31548 10.3453 8.94048 10.1786 8.60714C8.13097 9.26191 5.91668 9.58929 3.53571 9.58929C3.07143 9.58929 2.7262 9.58334 2.5 9.57143C2.5 9.61906 2.49704 9.67857 2.49107 9.75C2.48513 9.82143 2.48214 9.88095 2.48214 9.92857ZM2.71429 8.08929C2.9762 8.11309 3.36311 8.125 3.875 8.125C5.86311 8.125 7.75 7.85714 9.53572 7.32143C8.63097 5.71429 7.63691 4.375 6.55357 3.30357C5.61311 3.77977 4.80655 4.44048 4.13393 5.28572C3.46132 6.13095 2.98811 7.06548 2.71429 8.08929ZM5.375 15.8036C6.72025 16.8512 8.23811 17.375 9.92857 17.375C10.8095 17.375 11.6845 17.2083 12.5536 16.875C12.3155 14.8393 11.8512 12.8691 11.1607 10.9643C10.0655 11.2024 8.96132 11.8036 7.84822 12.7679C6.73513 13.7321 5.91072 14.7441 5.375 15.8036ZM8.10714 2.73214C9.15477 3.81548 10.125 5.16666 11.0179 6.78572C12.6369 6.10714 13.8571 5.24405 14.6786 4.19643C13.2976 3.05357 11.7143 2.48214 9.92857 2.48214C9.32143 2.48214 8.71429 2.56548 8.10714 2.73214ZM11.6607 8.05357C11.8393 8.43452 12.0417 8.91666 12.2679 9.5C13.1488 9.41666 14.1071 9.375 15.1429 9.375C15.881 9.375 16.6131 9.39286 17.3393 9.42857C17.2441 7.80952 16.6607 6.36905 15.5893 5.10714C14.8155 6.26191 13.506 7.24406 11.6607 8.05357ZM12.7143 10.75C13.3214 12.5119 13.7321 14.3214 13.9464 16.1786C14.8869 15.5714 15.6548 14.7917 16.25 13.8393C16.8453 12.8869 17.2024 11.8571 17.3214 10.75C16.4524 10.6905 15.6607 10.6607 14.9464 10.6607C14.2917 10.6607 13.5476 10.6905 12.7143 10.75Z" fill="#171717"/>
+</svg></div></div><div class="social_link-tag-w"><div class="social-link-tag"><p>dribbble<br/></p></div></div></a><a href="https://www.awwwards.com/besson-eliot/" target="_blank" class="footer_social-link w-inline-block"><div class="icon_embed20"><div class="svg-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.2667 4.66748L10.398 11.9041L8.634 4.66748H6.22667L4.462 11.9041L2.59467 4.66748H0L3.34133 15.2088H5.62467L7.43 8.39015L9.236 15.2088H11.5193L14.86 4.66748H12.2653H12.2667ZM16.5133 13.5775C16.5133 14.5815 17.26 15.3341 18.2567 15.3341C19.2527 15.3341 20 14.5808 20 13.5775C20 12.5735 19.2533 11.8201 18.2567 11.8201C17.26 11.8201 16.5133 12.5735 16.5133 13.5775Z" fill="#171717"/>
+</svg></div></div><div class="social_link-tag-w"><div class="social-link-tag"><p>awwwards</p></div></div></a><a href="mailto:bessoneliot@gmail.com" class="footer_social-link w-inline-block"><div class="icon_embed20"><div class="svg-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 6.20885V15.5H17.5V6.20888L11.2149 11.0151C10.4978 11.5635 9.50223 11.5635 8.78512 11.0151L2.5 6.20885ZM17.2654 4.5H2.73468L9.6963 9.82359C9.87557 9.96068 10.1245 9.96068 10.3037 9.82359L17.2654 4.5ZM1 4C1 3.44772 1.44772 3 2 3H18C18.5523 3 19 3.44772 19 4V16C19 16.5523 18.5523 17 18 17H2C1.44772 17 1 16.5523 1 16V4Z" fill="#171717"/>
+</svg></div></div><div class="social_link-tag-w"><div class="social-link-tag"><p>email</p></div></div></a></div><div class="section_noise is-footer"><div class="hide w-embed"><style>
+.noise_embed-footer::before {
+  content: "";
+  position: absolute;
+  opacity: 0.04;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('https://cdn.prod.website-files.com/677fb4d34764579513f06df6/678a4ca6053fb371ef1a243a_pf_noise.png');
+  pointer-events: none;
+  animation: 0.4s infinite noise;
+  mix-blend-mode: overlay;
+}
+
+</style></div><div class="noise_embed-footer"></div></div></div></div></menu><div class="cursor hide-tablet"><p>label</p><div class="cursor_icon"><div class="svg-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.46055 12.139L10.3852 5.21434H4.52121V4.21445H12.0922V11.7855H11.0923V5.92145L4.16766 12.8461L3.46055 12.139Z" fill="#FAFAFA"/>
+</svg></div></div></div><div class="page_w is-templates"><section class="template-hero_section"><div data-scroll-padding="" class="template_fixed-hero"><div class="w"><div class="w-layout-grid grid"><div data-hidden="" id="w-node-_970e8ede-dc2a-e794-ef74-7809a6bd29a9-34a5ae3b" class="template-hero_content txt-align-center"><div class="template_video-w"><div class="template_video-inner"><div id="custom-video" class="footer_logo-embed w-embed w-script"><video muted loop autoplay playsinline preload="auto" poster="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/6825fa08b77d8b8ad1efaa37_wf-logo_poster.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+  <source src="https://eliotbesson.b-cdn.net/webflow_logo-3D_opti.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    if (!window.Webflow || !window.Webflow.env("editor") && !window.Webflow.env("design")) {
+        const video = document.getElementById("custom-video");
+        video.setAttribute("autoplay", "true");
+        video.play();
+    }
+});
+</script></div></div></div><div data-scroll-fade="" class="template-hero_subitlte"><div class="div-z_index1"><h1 class="template-hero_heading"><div heading-1-wrap="" class="template-heading_ab is-l"><div heading-1="" class="title-l">webflow</div></div><div heading-2-wrap="" class="template-heading_ab is-r"><div heading-2="" class="title-l">templates</div></div></h1></div><div class="template-hero_subtitle-wrap"><p data-hidden="" class="txt-color-light-60o txt-size-s">Ready-made templates for <br/>powerful websites that stand out.</p></div></div></div></div></div></div></section><section class="template-list_section"><div fs-list-element="scroll-anchor" class="template_scroll-anchor"></div><div data-hidden="" class="template-hero_marquee-w div-hide"><div class="txt-size-s txt-caps opacity60">all templates are :</div><div data-marquee-duplicate="1" data-marquee-scroll-direction-target="" data-marquee-direction="left" data-marquee-status="normal" data-marquee-speed="30" data-marquee-scroll-speed="0" class="template-hero_marquee"><div data-marquee-scroll-target="" class="template-hero_marquee-c"><div data-marquee-collection-target="" class="template-hero_marquee-row"><div class="marquee_item"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682458cd7764ddf3f240d182_temp-phone.json" class="marquee_lottie"></div><div class="txt-size-s txt-caps">fully responsive</div></div><div class="marquee_divider is-template"></div><div class="marquee_item"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682458cc27055346b152655a_temp-cms.json" class="marquee_lottie"></div><div class="txt-size-s txt-caps">cms-ready</div></div><div class="marquee_divider is-template"></div><div class="marquee_item"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682458cc468879686d63f929_temp-custom.json" class="marquee_lottie"></div><div class="txt-size-s txt-caps">easy to customize</div></div><div class="marquee_divider is-template"></div><div class="marquee_item"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682458cd9556f780eed03728_temp-shine.json" class="marquee_lottie"></div><div class="txt-size-s txt-caps">visually engaging</div></div><div class="marquee_divider is-template"></div><div class="marquee_item"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682458cc88725080f92c6d8f_temp-search.json" class="marquee_lottie"></div><div class="txt-size-s txt-caps">seo-friendly</div></div><div class="marquee_divider is-template"></div><div class="marquee_item"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682458cc6e5eb1b5e14c77e0_temp-speed.json" class="marquee_lottie"></div><div class="txt-size-s txt-caps">optimized for speed</div></div><div class="marquee_divider is-template"></div><div class="marquee_item"><div data-lottie-path="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682458cc3845bce12076290b_temp-spark.json" class="marquee_lottie"></div><div class="txt-size-s txt-caps">Animation-Ready</div></div><div class="marquee_divider is-template"></div></div></div></div><div class="marquee_corner left"></div><div class="marquee_corner right"></div></div><div data-hidden="" class="template-list_w"><div class="hide w-embed"><style>
+@media (min-width: 992px) {
+    .template_item:nth-child(1) {
+        grid-column: 1 / span 3;
+        grid-row: 1;
+    }
+
+    .template_item:nth-child(2) {
+        grid-column: 5 / span 2;
+        grid-row: 1;
+    }
+
+    .template_item:nth-child(3) {
+        grid-column: 1 / span 2;
+        grid-row: 2;
+        align-self: end !important;
+    }
+
+    .template_item:nth-child(4) {
+        grid-column: 3 / span 4;
+        grid-row: 2;
+    }
+
+    .template_item:nth-child(5) {
+        grid-column: 1 / span 2;
+        grid-row: 3;
+    }
+
+    .template_item:nth-child(6) {
+        grid-column: 4 / span 2;
+        grid-row: 3;
+    }
+
+    .template_item:nth-child(7) {
+        grid-column: 1 / span 3;
+        grid-row: 4;
+    }
+
+    .template_item:nth-child(8) {
+        grid-column: 5 / span 2;
+        grid-row: 4;
+    }
+
+    .template_item:nth-child(9) {
+        grid-column: 1 / span 2;
+        grid-row: 5;
+        align-self: end !important;
+    }
+
+    .template_item:nth-child(10) {
+        grid-column: 3 / span 4;
+        grid-row: 5;
+    }
+
+    .template_item:nth-child(11) {
+        grid-column: 1 / span 2;
+        grid-row: 6;
+    }
+
+    .template_item:nth-child(12) {
+        grid-column: 4 / span 2;
+        grid-row: 6;
+    }
+
+    .template_item:nth-child(13) {
+        grid-column: 1 / span 3;
+        grid-row: 7;
+    }
+
+    .template_item:nth-child(14) {
+        grid-column: 5 / span 2;
+        grid-row: 7;
+    }
+
+    .template_item:nth-child(15) {
+        grid-column: 1 / span 2;
+        grid-row: 8;
+        align-self: end !important;
+    }
+
+    .template_item:nth-child(16) {
+        grid-column: 3 / span 4;
+        grid-row: 8;
+    }
+
+    .template_item:nth-child(17) {
+        grid-column: 1 / span 2;
+        grid-row: 9;
+    }
+
+    .template_item:nth-child(18) {
+        grid-column: 4 / span 2;
+        grid-row: 9;
+    }
+
+    .template_item:nth-child(19) {
+        grid-column: 1 / span 3;
+        grid-row: 10;
+    }
+
+    .template_item:nth-child(20) {
+        grid-column: 5 / span 2;
+        grid-row: 10;
+    }
+}
+</style></div><div fs-list-filteringclass="is-load" class="template_cms is-load w-dyn-list"><div fs-list-element="list" role="list" class="template_grid w-dyn-items"><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/reve-portfolio-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982fa23d3f8cca92c409f_reve-bg.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982fa23d3f8cca92c409f_reve-bg-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982fa23d3f8cca92c409f_reve-bg-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982fa23d3f8cca92c409f_reve-bg-p-1080.jpg 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982fa23d3f8cca92c409f_reve-bg.jpg 1440w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c9bc0b4f98373c3cc34978_reve-ui.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c9bc0b4f98373c3cc34978_reve-ui-p-500.png 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c9bc0b4f98373c3cc34978_reve-ui.png 1160w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Reve</div><div class="chip"></div><div class="txt-caps opacity60">Portfolio Template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Dark</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Minimal</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Bold</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/wisdom-blog-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac838f32634f6a19e5966_wisdom-bg.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac838f32634f6a19e5966_wisdom-bg-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac838f32634f6a19e5966_wisdom-bg-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac838f32634f6a19e5966_wisdom-bg-p-1080.jpg 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac838f32634f6a19e5966_wisdom-bg.jpg 1440w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac895fff2152d6465742b_wisdom-ui.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac895fff2152d6465742b_wisdom-ui-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac895fff2152d6465742b_wisdom-ui-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac895fff2152d6465742b_wisdom-ui-p-1080.jpg 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac895fff2152d6465742b_wisdom-ui.jpg 1160w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Wisdom</div><div class="chip"></div><div class="txt-caps opacity60">Blog Template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Minimal</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Retro</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/gazette-blog-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982c89b5acec3576a4533_gazette-bg.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982c89b5acec3576a4533_gazette-bg-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982c89b5acec3576a4533_gazette-bg-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982c89b5acec3576a4533_gazette-bg-p-1080.jpg 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982c89b5acec3576a4533_gazette-bg.jpg 1440w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982cd91af879ebf7ea7bd_gazette-ui.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982cd91af879ebf7ea7bd_gazette-ui-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982cd91af879ebf7ea7bd_gazette-ui-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982cd91af879ebf7ea7bd_gazette-ui.jpg 1160w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Gazette</div><div class="chip"></div><div class="txt-caps opacity60">Blog Template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Minimal</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Modern</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/domum-real-estate-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8ad49e8f531d73f9869_domum-bg.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8ad49e8f531d73f9869_domum-bg-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8ad49e8f531d73f9869_domum-bg-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8ad49e8f531d73f9869_domum-bg-p-1080.jpg 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8ad49e8f531d73f9869_domum-bg.jpg 1440w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8b1a5ddb1034191c0e6_domum-ui.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8b1a5ddb1034191c0e6_domum-ui-p-500.webp 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8b1a5ddb1034191c0e6_domum-ui-p-800.webp 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8b1a5ddb1034191c0e6_domum-ui-p-1080.webp 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8b1a5ddb1034191c0e6_domum-ui.webp 1160w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Domum</div><div class="chip"></div><div class="txt-caps opacity60">Real Estate Template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Corporate</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Modern</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/henry-talbot-photography-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e1704643544db5fcdd9e_henry-bg-main.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e1704643544db5fcdd9e_henry-bg-main-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e1704643544db5fcdd9e_henry-bg-main-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e1704643544db5fcdd9e_henry-bg-main.jpg 1200w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e17304d808dbd0f1b3f7_henry-screen-ui.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e17304d808dbd0f1b3f7_henry-screen-ui-p-500.png 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e17304d808dbd0f1b3f7_henry-screen-ui-p-800.png 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e17304d808dbd0f1b3f7_henry-screen-ui.png 1160w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Henry Talbot</div><div class="chip"></div><div class="txt-caps opacity60">Photogrpahy template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Minimal</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Modern</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Bold</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/lora-real-estate-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8ce0d4754219ff328b4_lora-bg.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8ce0d4754219ff328b4_lora-bg-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8ce0d4754219ff328b4_lora-bg-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8ce0d4754219ff328b4_lora-bg-p-1080.jpg 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8ce0d4754219ff328b4_lora-bg.jpg 1440w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8d3816839026be753df_lora-ui.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8d3816839026be753df_lora-ui-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8d3816839026be753df_lora-ui-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67cac8d3816839026be753df_lora-ui.jpg 1160w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Lora</div><div class="chip"></div><div class="txt-caps opacity60">Real Estate Template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Corporate</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Modern</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/charlie-portfolio-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0c857552804c8c09326_charlie-bg-main.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0c857552804c8c09326_charlie-bg-main-p-500.webp 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0c857552804c8c09326_charlie-bg-main-p-800.webp 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0c857552804c8c09326_charlie-bg-main-p-1080.webp 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0c857552804c8c09326_charlie-bg-main.webp 1200w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0cbef918f129e75c171_charlie-screen-ui.png" loading="lazy" alt="" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Charlie</div><div class="chip"></div><div class="txt-caps opacity60">Portfolio template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Dark</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Minimal</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Bold</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/lilia-architecture-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825dfd526866226358cf7b1_lilia-bg-main.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825dfd526866226358cf7b1_lilia-bg-main-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825dfd526866226358cf7b1_lilia-bg-main-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825dfd526866226358cf7b1_lilia-bg-main-p-1080.jpg 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825dfd526866226358cf7b1_lilia-bg-main.jpg 1200w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825dfdabf6906a9f39e2b6d_lilia-screen-ui.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825dfdabf6906a9f39e2b6d_lilia-screen-ui-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825dfdabf6906a9f39e2b6d_lilia-screen-ui-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825dfdabf6906a9f39e2b6d_lilia-screen-ui.jpg 870w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Lilia</div><div class="chip"></div><div class="txt-caps opacity60">Interior studio template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Illustration</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Playful</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/hypra-saas-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e00c5f630da579ce6a7e_hypra-bg-main.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e00c5f630da579ce6a7e_hypra-bg-main-p-500.webp 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e00c5f630da579ce6a7e_hypra-bg-main-p-800.webp 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e00c5f630da579ce6a7e_hypra-bg-main-p-1080.webp 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e00c5f630da579ce6a7e_hypra-bg-main.webp 1200w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e01e61531419d3bb98c8_hypra-screen-ui.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e01e61531419d3bb98c8_hypra-screen-ui-p-500.png 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e01e61531419d3bb98c8_hypra-screen-ui.png 1160w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Hypra</div><div class="chip"></div><div class="txt-caps opacity60">Saas template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Illustration</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Light</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Playful</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/linear-portfolio-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e08e2c09637697915965_linear-bg-main.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e08e2c09637697915965_linear-bg-main-p-500.webp 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e08e2c09637697915965_linear-bg-main-p-800.webp 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e08e2c09637697915965_linear-bg-main-p-1080.webp 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e08e2c09637697915965_linear-bg-main.webp 1200w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e090e58bfa40c914d4fc_linear-screen-ui.png" loading="lazy" alt="" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Linear</div><div class="chip"></div><div class="txt-caps opacity60">Portfolio template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Dark</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Minimal</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Bold</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/delice-restaurant-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0538404073eae2c1723_delice-bg-main.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0538404073eae2c1723_delice-bg-main-p-500.webp 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0538404073eae2c1723_delice-bg-main-p-800.webp 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0538404073eae2c1723_delice-bg-main-p-1080.webp 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0538404073eae2c1723_delice-bg-main.webp 1200w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e058e58bfa40c914a688_delice-screen-ui.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e058e58bfa40c914a688_delice-screen-ui-p-500.webp 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e058e58bfa40c914a688_delice-screen-ui-p-800.webp 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e058e58bfa40c914a688_delice-screen-ui.webp 870w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Delice</div><div class="chip"></div><div class="txt-caps opacity60">Restaurant template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Modern</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Minimal</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Retro</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/bizou-consulting-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0fd760d54256b28a666_bizou-bg-main.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0fd760d54256b28a666_bizou-bg-main-p-500.webp 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0fd760d54256b28a666_bizou-bg-main-p-800.webp 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0fd760d54256b28a666_bizou-bg-main-p-1080.webp 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e0fd760d54256b28a666_bizou-bg-main.webp 1200w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6826e15f310f191d2febe73c_bizou-screen-ui%20(1).png" loading="lazy" alt="" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Bizou</div><div class="chip"></div><div class="txt-caps opacity60">Agency template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Modern</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Minimal</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Corporate</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/elias-portfolio-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e137e58bfa40c915479e_elias-bg-main.jpg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e137e58bfa40c915479e_elias-bg-main-p-500.jpg 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e137e58bfa40c915479e_elias-bg-main-p-800.jpg 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e137e58bfa40c915479e_elias-bg-main.jpg 1200w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e13ab3c9666c0c860a4c_elias-screen-ui.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e13ab3c9666c0c860a4c_elias-screen-ui-p-500.png 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825e13ab3c9666c0c860a4c_elias-screen-ui.png 1160w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Elias</div><div class="chip"></div><div class="txt-caps opacity60">Portfolio template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Playful</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Retro</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Bold</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/emit-saas-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982e840ceaf9a3e02901d_emit-bg.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982e840ceaf9a3e02901d_emit-bg-p-500.webp 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982e840ceaf9a3e02901d_emit-bg-p-800.webp 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982e840ceaf9a3e02901d_emit-bg-p-1080.webp 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c982e840ceaf9a3e02901d_emit-bg.webp 1440w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c9bc14ed88f8f192e28f14_emit-ui.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c9bc14ed88f8f192e28f14_emit-ui-p-500.png 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/67c9bc14ed88f8f192e28f14_emit-ui.png 1160w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Emit</div><div class="chip"></div><div class="txt-caps opacity60">SAAS Template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Dark</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Illustration</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Playful</div></div></div></div></div><div data-cursor-arrow="" data-cursor="see on webflow marketplace" id="w-node-cae34964-5872-2ff3-2643-8b7d747ad063-34a5ae3b" role="listitem" class="template_item w-dyn-item"><a href="https://webflow.com/templates/html/archie-architecture-website-template" target="_blank" class="template_link w-inline-block"><div class="template_main"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825deee656b36aea33c1554_archie-bg-main.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825deee656b36aea33c1554_archie-bg-main-p-500.webp 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825deee656b36aea33c1554_archie-bg-main-p-800.webp 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825deee656b36aea33c1554_archie-bg-main-p-1080.webp 1080w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825deee656b36aea33c1554_archie-bg-main.webp 1200w" class="img-ab"/><div class="template_blur-hover hide-mobile"></div><div class="template_item-img-w"><div class="template_item-img"><img src="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825def1875879f444f3ebd7_archie-screen-ui.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825def1875879f444f3ebd7_archie-screen-ui-p-500.png 500w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825def1875879f444f3ebd7_archie-screen-ui-p-800.png 800w, https://cdn.prod.website-files.com/677fb4d34764579513f06e12/6825def1875879f444f3ebd7_archie-screen-ui.png 1160w" class="img-ab"/></div></div><div class="template_slide-border hide-mobile"></div><div class="template_price"><div class="tag-price">49$</div></div></div><div class="template_infos-w txt-size-s"><div class="template_infos-main"><div class="txt-caps">Archie</div><div class="chip"></div><div class="txt-caps opacity60">Architecture studio template</div></div><div class="template_infos-mob"><div class="txt-button txt-underline">Buy</div></div></div></a><div class="hide w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Corporate</div></div><div role="listitem" class="w-dyn-item"><div fs-list-field="category">Retro</div></div></div></div></div></div></div></div></section><aside class="template_filters-c"><div class="template_filters-bg"></div><div class="w div-relative"><div class="w-layout-grid grid"><div data-hidden="" fs-cmsfilter-element="filters" id="w-node-_45ee8e9e-39b9-9dcd-ee26-d2885c17dfd3-34a5ae3b" class="filter_form-block w-form"><form id="email-form" name="email-form" data-name="Email Form" method="get" fs-list-element="filters" class="template-filter_component" data-wf-page-id="6823408ce3f1736634a5ae3b" data-wf-element-id="45ee8e9e-39b9-9dcd-ee26-d2885c17dfd4"><div style="opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(0.7, 0.7, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.7, 0.7, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.7, 0.7, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.7, 0.7, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);display:none" class="template-filter_panel"><div class="filter-panel_head txt-size-s"><div class="txt-caps">select styles</div><a href="templates#" fs-list-element="clear" class="txt-underline txt-caps opacity60">clear</a></div><div class="divider is_filter-panel"></div><div class="template-filters_cms w-dyn-list"><div role="list" class="template-filters_list w-dyn-items"><div role="listitem" class="template-filter_item w-dyn-item"><label class="w-checkbox template-filter_checkbox"><input fs-list-value="Bold" class="w-checkbox-input hide" fs-list-activeclass="active" fs-list-field="category" name="checkbox" data-name="Checkbox" type="checkbox" id="checkbox"/><span class="txt-caps txt-size-s w-form-label" for="checkbox">Bold</span></label></div><div role="listitem" class="template-filter_item w-dyn-item"><label class="w-checkbox template-filter_checkbox"><input fs-list-value="Corporate" class="w-checkbox-input hide" fs-list-activeclass="active" fs-list-field="category" name="checkbox" data-name="Checkbox" type="checkbox" id="checkbox"/><span class="txt-caps txt-size-s w-form-label" for="checkbox">Corporate</span></label></div><div role="listitem" class="template-filter_item w-dyn-item"><label class="w-checkbox template-filter_checkbox"><input fs-list-value="Dark" class="w-checkbox-input hide" fs-list-activeclass="active" fs-list-field="category" name="checkbox" data-name="Checkbox" type="checkbox" id="checkbox"/><span class="txt-caps txt-size-s w-form-label" for="checkbox">Dark</span></label></div><div role="listitem" class="template-filter_item w-dyn-item"><label class="w-checkbox template-filter_checkbox"><input fs-list-value="Illustration" class="w-checkbox-input hide" fs-list-activeclass="active" fs-list-field="category" name="checkbox" data-name="Checkbox" type="checkbox" id="checkbox"/><span class="txt-caps txt-size-s w-form-label" for="checkbox">Illustration</span></label></div><div role="listitem" class="template-filter_item w-dyn-item"><label class="w-checkbox template-filter_checkbox"><input fs-list-value="Light" class="w-checkbox-input hide" fs-list-activeclass="active" fs-list-field="category" name="checkbox" data-name="Checkbox" type="checkbox" id="checkbox"/><span class="txt-caps txt-size-s w-form-label" for="checkbox">Light</span></label></div><div role="listitem" class="template-filter_item w-dyn-item"><label class="w-checkbox template-filter_checkbox"><input fs-list-value="Minimal" class="w-checkbox-input hide" fs-list-activeclass="active" fs-list-field="category" name="checkbox" data-name="Checkbox" type="checkbox" id="checkbox"/><span class="txt-caps txt-size-s w-form-label" for="checkbox">Minimal</span></label></div><div role="listitem" class="template-filter_item w-dyn-item"><label class="w-checkbox template-filter_checkbox"><input fs-list-value="Modern" class="w-checkbox-input hide" fs-list-activeclass="active" fs-list-field="category" name="checkbox" data-name="Checkbox" type="checkbox" id="checkbox"/><span class="txt-caps txt-size-s w-form-label" for="checkbox">Modern</span></label></div><div role="listitem" class="template-filter_item w-dyn-item"><label class="w-checkbox template-filter_checkbox"><input fs-list-value="Playful" class="w-checkbox-input hide" fs-list-activeclass="active" fs-list-field="category" name="checkbox" data-name="Checkbox" type="checkbox" id="checkbox"/><span class="txt-caps txt-size-s w-form-label" for="checkbox">Playful</span></label></div><div role="listitem" class="template-filter_item w-dyn-item"><label class="w-checkbox template-filter_checkbox"><input fs-list-value="Retro" class="w-checkbox-input hide" fs-list-activeclass="active" fs-list-field="category" name="checkbox" data-name="Checkbox" type="checkbox" id="checkbox"/><span class="txt-caps txt-size-s w-form-label" for="checkbox">Retro</span></label></div></div></div></div><div data-w-id="c77e900f-9576-af46-2fde-92ad666d5b32" class="template-filter_trigger"><div class="template-filter_default"><div data-is-ix2-target="1" class="template-filter_lottie" data-w-id="9494d226-9231-0a4e-6bdb-e5262662b4cf" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/682615c05a57c2a0da4cf6a7_filters_out-expo.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="0" data-duration="0.8"></div><div class="template-filter_labels"><div class="filter-label_rel"><div class="txt-size-s txt-caps">open filters</div></div><div style="opacity:0;-webkit-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="filter-label_ab"><div class="txt-size-s txt-caps">Close filters</div></div></div></div><div class="filters_list-w hide"><a fs-cmsfilter-element="clear" href="templates#" class="filter_radio active w-inline-block"><div class="txt-size-s txt-caps">All</div></a><div class="filters_cms w-dyn-list"><div role="list" class="filters_list w-dyn-items"><div role="listitem" class="filter_item w-dyn-item"><label fs-cmsfilter-active="active" fs-cmsfilter-field="category" class="filter_radio w-radio"><div class="w-form-formradioinput w-form-formradioinput--inputType-custom hide w-radio-input"></div><input type="radio" data-name="Radio 2" id="radio-2" name="radio" style="opacity:0;position:absolute;z-index:-1" value="Radio"/><span class="filter_radio-label w-form-label" for="radio-2">Webdesign</span></label></div><div role="listitem" class="filter_item w-dyn-item"><label fs-cmsfilter-active="active" fs-cmsfilter-field="category" class="filter_radio w-radio"><div class="w-form-formradioinput w-form-formradioinput--inputType-custom hide w-radio-input"></div><input type="radio" data-name="Radio 2" id="radio-2" name="radio" style="opacity:0;position:absolute;z-index:-1" value="Radio"/><span class="filter_radio-label w-form-label" for="radio-2">Webflow</span></label></div></div></div></div></div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div></aside></div><footer class="footer"><div class="footer_inner txt-color-dark div-hide"><div class="section_noise is-footer"><div class="hide w-embed"><style>
+.noise_embed-footer::before {
+  content: "";
+  position: absolute;
+  opacity: 0.04;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('https://cdn.prod.website-files.com/677fb4d34764579513f06df6/678a4ca6053fb371ef1a243a_pf_noise.png');
+  pointer-events: none;
+  animation: 0.4s infinite noise;
+  mix-blend-mode: overlay;
+}
+
+</style></div><div class="noise_embed-footer"></div></div><div class="footer_top"><a data-scroll="stop" contact-trigger="" href="templates#" class="footer_callout w-inline-block"><div class="footer_next-overlay hide-tablet"></div><div class="footer_callout-txt div-relative">have a project in mind?</div><div class="footer_callout-hover-w div-relative"><div class="footer_callout-txt">let&#x27;s </div><div class="div-relative div-hide"><div class="footer_callout-txt default">talk about it!</div><div class="footer_callout-txt absolute hide-tablet">get in touch!</div></div></div></a><a data-w-id="ecf0ca98-64c3-3757-2fd1-8e7486e87306" href="works" class="footer_next hide-tablet w-inline-block"><div class="footer_next-overlay"></div><div class="footer_next-top opacity60 div-relative"><div class="txt-caps">next page</div><div class="icon_embed20 hide"><div class="svg-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.35355 2.64648L13.7071 8.00004L8.35355 13.3536L7.64645 12.6465L11.7929 8.50004H2V7.50004H11.7929L7.64645 3.35359L8.35355 2.64648Z" fill="#171717"/>
+</svg></div></div></div><div class="footer_next-btm div-relative"><div class="footer_next-title-w"><h3>Works</h3></div><div><div class="button-light_footer"><div class="button_bg-light"></div><div class="button_in is-lottie"><div data-is-ix2-target="1" class="button_lottie" data-w-id="ecf0ca98-64c3-3757-2fd1-8e7486e87315" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/67d05e7f168c28fdb45a78c7_62218f96854679355d2b35cacc36cc1a_Arrow.json" data-loop="1" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="0" data-duration="1.25"></div><div class="button_labels-wrap"><div class="button_label-relative"><div class="txt-button txt-color-dark">discover</div></div><div class="button_label-absolute"><div class="txt-button txt-color-dark">discover</div></div></div></div></div></div></div><div class="footer_line-v"></div></a><div class="footer_line-h hide-tablet"></div></div><div class="footer_btm"><div class="footer_main"><div class="footer_main-top"><div class="footer_sitemap-w"><div class="footer_sitemap-label"><p class="txt-size-xs opacity60">sitemap</p></div><div class="sitemap_links"><a href="index.html" class="footer_link w-inline-block"><p>home</p></a><a href="works" class="footer_link w-inline-block"><p>works</p></a><a href="templates" aria-current="page" class="footer_link w-inline-block w--current"><p>templates</p></a><a href="about" class="footer_link w-inline-block"><p>about</p></a><a data-scroll="stop" contact-trigger="" href="templates#" class="footer_link w-inline-block"><p>contact</p></a></div></div><div class="footer_social-links"><a aria-label="Linkedin" href="https://www.linkedin.com/in/eliot-besson-52505812a/" target="_blank" class="footer_social-link w-inline-block"><div class="icon_embed20"><div class="svg-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.1111 17.8573H3.88885C2.92455 17.8573 2.14282 17.0756 2.14282 16.1113V3.8891C2.14282 2.92479 2.92455 2.14307 3.88885 2.14307H16.1111C17.0754 2.14307 17.8571 2.92479 17.8571 3.8891V16.1113C17.8571 17.0756 17.0754 17.8573 16.1111 17.8573ZM13.3426 15.675H15.6745V10.8846C15.6745 8.85768 14.5256 7.87767 12.9207 7.87767C11.3151 7.87767 10.6394 9.12798 10.6394 9.12798V8.10882H8.39212V15.675H10.6394V11.7032C10.6394 10.639 11.1293 10.0057 12.0669 10.0057C12.9289 10.0057 13.3426 10.6143 13.3426 11.7032V15.675ZM4.32532 5.72193C4.32532 6.49294 4.94561 7.1181 5.71109 7.1181C6.47657 7.1181 7.0965 6.49294 7.0965 5.72193C7.0965 4.95091 6.47657 4.32575 5.71109 4.32575C4.94561 4.32575 4.32532 4.95091 4.32532 5.72193ZM6.89404 15.675H4.55068V8.10882H6.89404V15.675Z" fill="#171717"/>
+</svg></div></div><div class="social_link-tag-w"><div class="social-link-tag"><p>linkedin</p></div></div></a><a aria-label="Dribbble" href="https://dribbble.com/EliotB" target="_blank" class="footer_social-link w-inline-block"><div class="icon_embed20"><div class="svg-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 9.92857C1 8.30952 1.39882 6.81548 2.19643 5.44643C2.99405 4.07738 4.07739 2.99405 5.44643 2.19643C6.81548 1.3988 8.30954 1 9.92857 1C11.5476 1 13.0417 1.3988 14.4107 2.19643C15.7798 2.99405 16.8631 4.07738 17.6607 5.44643C18.4583 6.81548 18.8571 8.30952 18.8571 9.92857C18.8571 11.5476 18.4583 13.0417 17.6607 14.4107C16.8631 15.7798 15.7798 16.8631 14.4107 17.6607C13.0417 18.4583 11.5476 18.8571 9.92857 18.8571C8.30954 18.8571 6.81548 18.4583 5.44643 17.6607C4.07739 16.8631 2.99405 15.7798 2.19643 14.4107C1.39882 13.0417 1 11.5476 1 9.92857ZM2.48214 9.92857C2.48214 11.7857 3.10714 13.4226 4.35714 14.8393C4.92857 13.7202 5.83334 12.6548 7.07143 11.6429C8.30954 10.6309 9.51786 9.99406 10.6964 9.73215C10.5179 9.31548 10.3453 8.94048 10.1786 8.60714C8.13097 9.26191 5.91668 9.58929 3.53571 9.58929C3.07143 9.58929 2.7262 9.58334 2.5 9.57143C2.5 9.61906 2.49704 9.67857 2.49107 9.75C2.48513 9.82143 2.48214 9.88095 2.48214 9.92857ZM2.71429 8.08929C2.9762 8.11309 3.36311 8.125 3.875 8.125C5.86311 8.125 7.75 7.85714 9.53572 7.32143C8.63097 5.71429 7.63691 4.375 6.55357 3.30357C5.61311 3.77977 4.80655 4.44048 4.13393 5.28572C3.46132 6.13095 2.98811 7.06548 2.71429 8.08929ZM5.375 15.8036C6.72025 16.8512 8.23811 17.375 9.92857 17.375C10.8095 17.375 11.6845 17.2083 12.5536 16.875C12.3155 14.8393 11.8512 12.8691 11.1607 10.9643C10.0655 11.2024 8.96132 11.8036 7.84822 12.7679C6.73513 13.7321 5.91072 14.7441 5.375 15.8036ZM8.10714 2.73214C9.15477 3.81548 10.125 5.16666 11.0179 6.78572C12.6369 6.10714 13.8571 5.24405 14.6786 4.19643C13.2976 3.05357 11.7143 2.48214 9.92857 2.48214C9.32143 2.48214 8.71429 2.56548 8.10714 2.73214ZM11.6607 8.05357C11.8393 8.43452 12.0417 8.91666 12.2679 9.5C13.1488 9.41666 14.1071 9.375 15.1429 9.375C15.881 9.375 16.6131 9.39286 17.3393 9.42857C17.2441 7.80952 16.6607 6.36905 15.5893 5.10714C14.8155 6.26191 13.506 7.24406 11.6607 8.05357ZM12.7143 10.75C13.3214 12.5119 13.7321 14.3214 13.9464 16.1786C14.8869 15.5714 15.6548 14.7917 16.25 13.8393C16.8453 12.8869 17.2024 11.8571 17.3214 10.75C16.4524 10.6905 15.6607 10.6607 14.9464 10.6607C14.2917 10.6607 13.5476 10.6905 12.7143 10.75Z" fill="#171717"/>
+</svg></div></div><div class="social_link-tag-w"><div class="social-link-tag"><p>dribbble<br/></p></div></div></a><a aria-label="Awwwards" href="https://www.awwwards.com/besson-eliot/" target="_blank" class="footer_social-link w-inline-block"><div class="icon_embed20"><div class="svg-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.2667 4.66748L10.398 11.9041L8.634 4.66748H6.22667L4.462 11.9041L2.59467 4.66748H0L3.34133 15.2088H5.62467L7.43 8.39015L9.236 15.2088H11.5193L14.86 4.66748H12.2653H12.2667ZM16.5133 13.5775C16.5133 14.5815 17.26 15.3341 18.2567 15.3341C19.2527 15.3341 20 14.5808 20 13.5775C20 12.5735 19.2533 11.8201 18.2567 11.8201C17.26 11.8201 16.5133 12.5735 16.5133 13.5775Z" fill="#171717"/>
+</svg></div></div><div class="social_link-tag-w"><div class="social-link-tag"><p>awwwards</p></div></div></a><a aria-label="Send an email" href="mailto:bessoneliot@gmail.com" class="footer_social-link w-inline-block"><div class="icon_embed20"><div class="svg-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 6.20885V15.5H17.5V6.20888L11.2149 11.0151C10.4978 11.5635 9.50223 11.5635 8.78512 11.0151L2.5 6.20885ZM17.2654 4.5H2.73468L9.6963 9.82359C9.87557 9.96068 10.1245 9.96068 10.3037 9.82359L17.2654 4.5ZM1 4C1 3.44772 1.44772 3 2 3H18C18.5523 3 19 3.44772 19 4V16C19 16.5523 18.5523 17 18 17H2C1.44772 17 1 16.5523 1 16V4Z" fill="#171717"/>
+</svg></div></div><div class="social_link-tag-w"><div class="social-link-tag"><p>email</p></div></div></a></div></div><div class="footer_main-btm hide-mobile-l"><div class="txt-size-xs txt-caps opacity60">Eliot besson © 2025</div><a open-credits="" href="templates#" class="txt-size-xs txt-caps opacity60 txt-underline">infos &amp; credits</a></div><div class="footer_credits pointer-events_none hide-mobile-l"><div class="txt-size-xs txt-caps pointer-events_auto"><span class="txt-size-s">01/fonts used</span><br/><br/><a href="https://blazetype.eu/typefaces/arges" target="_blank" class="txt-underline"><span class="opacity60">arges</span></a><span class="opacity60"> by blazetype <br/></span><a href="https://cotypefoundry.com/our-fonts/aeonik" target="_blank" class="txt-underline"><span class="opacity60">aeonik</span></a><span class="opacity60"> by cotype foundry<br/></span><a href="https://vercel.com/font" target="_blank" class="txt-underline"><span class="opacity60">Geist mono</span></a><span class="opacity60"> by Vercel</span></div><div class="txt-size-xs txt-caps pointer-events_auto"><span class="txt-size-s">02/infos</span><br/>‍<br/><span class="opacity60">designed in figma, developed with webflow/gsap/css, animated icons made in lottielab, 3D made with spline</span></div><div class="txt-size-xs txt-caps pointer-events_auto"><span class="txt-size-s">03/something else ?</span><br/><br/><span class="opacity60">if you have any feedbacks, comments, questions, don’t hesitate </span><a href="mailto:bessoneliot@gmail.com" class="txt-underline"><span class="opacity60">to reach out!</span></a></div></div></div><div class="footer_logo"><div class="footer_logo-c"><div data-video="playpause" class="footer_logo-embed w-embed"><video muted loop autoplay preload="none" playsinline style="width: 100%; height: 100%; object-fit: cover;">
+  <source src="https://eliotbesson.b-cdn.net/logo-footer-opti.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video></div></div></div><div class="footer_main-btm is-mobile"><div class="txt-size-xs txt-caps opacity60">Eliot besson © 2025</div></div></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=677fb4d34764579513f06df6" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/js/eliot-25.schunk.57d5559d2f0cd9f8.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/677fb4d34764579513f06df6/js/eliot-25.9eeea996.c84118cc86a31a71.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/timothydesign/script/split-type.js"></script>
+
+<script defer src =
+  "https://cdn.prod.website-files.com/645e0e1ff7fdb6dc8c85f3a2/64a5544a813c7253b90f2f50_lenis-offbrand.txt"
+data-id-scroll
+data-autoinit="true"
+data-duration="0.8"
+data-orientation="vertical"
+data-smoothWheel="true"
+data-smoothTouch="false"
+data-touchMultiplier = "1"
+data-easing="(t) => (t === 1 ? 1 : 1 - Math.pow(2, -10 * t))"
+data-useOverscroll="true"
+data-useControls="true"
+data-useAnchor="true"
+data-useRaf="true"
+data-infinite="false" >
+  </script>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+
+// Footer Callout Splitted Text
+const staggerCallouts = document.querySelectorAll(".footer_callout");
+
+staggerCallouts.forEach((callout) => {
+  const defaultText = callout.querySelector(".footer_callout-txt.default");
+  const absoluteText = callout.querySelector(".footer_callout-txt.absolute");
+
+  let allWordsDefault = [];
+  let allWordsAbsolute = [];
+
+  if (defaultText) {
+    let splitDefault = new SplitType(defaultText, { types: "words" });
+    allWordsDefault = splitDefault.words;
+  }
+
+  if (absoluteText) {
+    let splitAbsolute = new SplitType(absoluteText, { types: "words" });
+    allWordsAbsolute = splitAbsolute.words;
+
+    // Set initial position of absolute words to 1em
+    gsap.set(allWordsAbsolute, { y: "1em" });
+  }
+
+  callout.addEventListener("mouseenter", function () {
+    gsap.to(allWordsDefault, {
+      y: "-1em",
+      duration: 0.55,
+      ease: "expo.out", // Replaced with expo.out
+      stagger: { each: 0.03, from: "start" },
+    });
+
+    gsap.to(allWordsAbsolute, {
+      y: "0em",
+      duration: 0.55,
+      ease: "expo.out", // Replaced with expo.out
+      stagger: { each: 0.03, from: "start" },
+    });
+  });
+
+  callout.addEventListener("mouseleave", function () {
+    gsap.to(allWordsDefault, {
+      y: "0em",
+      duration: 0.5, // Smooth return
+      ease: "expo.out",
+      stagger: { each: 0.03, from: "start" },
+
+    });
+
+    gsap.to(allWordsAbsolute, {
+      y: "1em",
+      duration: 0.5, // Smooth return
+      ease: "expo.out",
+      stagger: { each: 0.03, from: "start" },
+
+    });
+  });
+});
+
+// Play/Pause video based on viewport
+function initPlayPauseVideoScroll() {
+  const videos = gsap.utils.toArray('[data-video="playpause"]');
+
+  videos.forEach(el => {
+    const video = el.querySelector('video');
+    if (!video) return;
+
+    ScrollTrigger.create({
+      trigger: el,
+      start: '0% 100%',
+      end: '100% 0%',
+      onEnter: () => video.play(),
+      onEnterBack: () => video.play(),
+      onLeave: () => video.pause(),
+      onLeaveBack: () => video.pause(),
+    });
+  });
+}
+
+initPlayPauseVideoScroll();
+
+// Menu Show & Hide on Scroll
+var lastScrollTop = 0;
+$(window).on('scroll', function () {
+  var st = $(this).scrollTop();
+  var windowHeight = $(window).height();
+  var documentHeight = $(document).height();
+
+  if (st <= 0) {
+    $('.menu').css('transform', 'translateY(0%)');
+  }
+  else if (st + windowHeight >= documentHeight) {
+    // Reached the bottom
+    $('.menu').css('transform', 'translateY(-100%)');
+  }
+  else if (st > lastScrollTop) {
+    // Scrolling down
+    $('.menu').css('transform', 'translateY(-100%)');
+  } else {
+    // Scrolling up
+    $('.menu').css('transform', 'translateY(0%)');
+  }
+
+  lastScrollTop = st;
+});
+
+// Fade In Small Animation
+document.querySelectorAll('[fade-in]').forEach((el) => {
+  gsap.fromTo(el, { y: 40, opacity: 0 },
+  {
+    y: 0,
+    opacity: 1,
+    duration: 1,
+    ease: "expo.out",
+    scrollTrigger: {
+      trigger: el,
+      start: "top 90%",
+      toggleActions: "play none none none"
+    }
+  });
+});
+
+// Contact Form Opens
+gsap.set(".contact_bg", { opacity: 0 });
+gsap.set(".contact_main", { x: "100%" });
+gsap.set(".contact_close-btn", { scale: 0 });
+gsap.set(".contact_component", { display: "none" });
+
+document.querySelectorAll("[contact-trigger]").forEach(trigger => {
+  trigger.addEventListener("click", () => {
+    const contactComponent = document.querySelector(".contact_component");
+    const contactBg = document.querySelector(".contact_bg");
+    const contactMain = document.querySelector(".contact_main");
+    const contactCloseBtn = document.querySelector(".contact_close-btn");
+
+    gsap.set(contactComponent, { display: "block" });
+
+    gsap.timeline()
+      .to(contactBg, { opacity: 1, duration: 0.4, ease: "ease" })
+      .to(contactMain, { x: "0%", duration: 0.8, ease: "power4.out" }, 0.1)
+      .to(contactCloseBtn, { scale: 1, duration: 0.8, ease: "power4.out" }, 0.15);
+  });
+});
+
+document.querySelector(".contact_close-w").addEventListener("click", () => {
+  const contactComponent = document.querySelector(".contact_component");
+  const contactBg = document.querySelector(".contact_bg");
+  const contactMain = document.querySelector(".contact_main");
+  const contactCloseBtn = document.querySelector(".contact_close-btn");
+
+  gsap.timeline({
+      onComplete: () => gsap.set(contactComponent, { display: "none" })
+    })
+    .to(contactCloseBtn, { scale: 0, duration: 0.4, ease: "power4.out" })
+    .to(contactMain, { x: "100%", duration: 0.5, ease: "power4.out" }, 0.1)
+    .to(contactBg, { opacity: 0, duration: 0.3, ease: "power2.out" }, 0);
+});
+
+//Play Form Lottie on Hover
+function initLottieHover() {
+  document.querySelectorAll(".form-field_component").forEach(component => {
+    const lottieContainer = component.querySelector(".field_label .field_lottie");
+    const lottiePath = lottieContainer?.dataset?.lottiePath;
+
+    if (lottiePath && !lottieContainer.dataset.lottieInitialized) {
+      const anim = lottie.loadAnimation({
+        container: lottieContainer,
+        renderer: "svg",
+        loop: false,
+        autoplay: false,
+        path: lottiePath,
+      });
+
+      component.addEventListener("mouseenter", () => {
+        anim.setDirection(1);
+        anim.play();
+      });
+
+      component.addEventListener("mouseleave", () => {
+        anim.setDirection(-1);
+        anim.play();
+      });
+
+      lottieContainer.dataset.lottieInitialized = "true";
+    }
+  });
+}
+
+const observer = new MutationObserver(() => {
+  const contact = document.querySelector(".contact_component");
+  if (contact && getComputedStyle(contact).display !== "none") {
+    initLottieHover();
+    observer.disconnect();
+  }
+});
+
+observer.observe(document.body, {
+  childList: true,
+  subtree: true,
+  attributes: true,
+  attributeFilter: ["style", "class"],
+});
+
+// Footer Open Credits
+const creditsTrigger = document.querySelector("[open-credits]");
+const creditItems = document.querySelectorAll(".footer_credits .txt-size-xs");
+
+gsap.set(creditItems, { x: -40, opacity: 0 });
+
+let isCreditsOpen = false;
+
+const openTl = gsap.timeline({ paused: true })
+  .to(creditItems, {
+    x: 0,
+    opacity: 1,
+    duration: 0.6,
+    ease: "power4.out",
+    stagger: 0.05
+  });
+
+const closeTl = gsap.timeline({
+  paused: true,
+  onComplete: () => {
+    gsap.set(creditItems, { x: 40, opacity: 0 });
+  }
+}).to(creditItems, {
+  x: 40,
+  opacity: 0,
+  duration: 0.6,
+  ease: "power4.out",
+  stagger: 0.05
+});
+
+creditsTrigger.addEventListener("click", () => {
+  if (!isCreditsOpen) {
+    closeTl.pause(0);
+    openTl.restart();
+  } else {
+    openTl.pause(0);
+    closeTl.restart();
+  }
+  isCreditsOpen = !isCreditsOpen;
+});
+
+// Page transition
+gsap.fromTo(
+  [".page_w", ".menu_inner"], { opacity: 0 }, {
+    opacity: 1,
+    duration: 0.2,
+    ease: "ease"
+  }
+);
+
+// Code that runs on click of a link
+$("a").on("click", function (e) {
+  if (
+    $(this).prop("hostname") === window.location.host &&
+    $(this).attr("href").indexOf("#") === -1 &&
+    $(this).attr("target") !== "_blank"
+  ) {
+    e.preventDefault();
+    $("body").css("cursor", "progress");
+
+    const destination = $(this).attr("href");
+    gsap.to([".page_w", ".menu_inner", ".cursor"], {
+      opacity: 0,
+      duration: 0.2,
+      ease: "ease",
+      onComplete: () => {
+        window.location = destination;
+      }
+    });
+  }
+});
+
+// On click of the back button
+window.onpageshow = function (event) {
+  if (event.persisted) {
+    window.location.reload();
+  }
+};
+});
+</script>
+
+<style>
+@media (min-width: 992px) {
+
+  /* Footer Links Hover */
+  .footer_social-link:hover .social-link-tag {
+    transform: scale(1) translateY(0em);
+    opacity: 1;
+  }
+
+  .footer_social-link:hover {
+    border-color: rgba(23, 23, 23, 0.48);
+  }
+
+  .footer_social-link {
+    transition: border-color 0.3s cubic-bezier(.16, 1, .3, 1.15);
+  }
+
+  .footer_next-overlay {
+    transition: transform 0.5s cubic-bezier(.16, 1, .3, 1);
+  }
+
+  .footer_next .footer_next-overlay {
+    transform: scaleY(0);
+  }
+
+  .footer_next:hover .footer_next-overlay {
+    transform: scaleY(1);
+  }
+
+  .footer_next .footer_next-title-w {
+    transition: transform 0.4s cubic-bezier(.16, 1, .3, 1);
+  }
+
+  .footer_next:hover .footer_next-title-w {
+    transform: translateX(1em);
+  }
+
+  .footer_callout:hover .footer_callout-hover-w {
+    margin-left: 2.5em;
+  }
+
+  .footer_callout .footer_next-overlay {
+    transform: scaleY(0);
+  }
+
+  .footer_callout:hover .footer_next-overlay {
+    transform: scaleY(1);
+  }
+
+  .footer_callout-hover-w {
+    transition: margin-left 0.5s cubic-bezier(.16, 1, .3, 1);
+  }
+
+  /* CSS for Footer Links */
+  .footer_social-link .social-link-tag {
+    transform: scale(0.4) translateY(2em);
+    opacity: 0;
+    transition:
+      transform 0.3s cubic-bezier(.16, 1, .3, 1.15),
+      opacity 0.3s cubic-bezier(.16, 1, .3, 1);
+  }
+
+  /* Footer & Menu Links Hover */
+  .menu_link:hover~.menu_link:not(:hover),
+  .menu_link:not(:hover):has(~ .menu_link:hover) {
+    opacity: 0.4;
+  }
+
+  .footer_link:hover~.footer_link:not(:hover),
+  .footer_link:not(:hover):has(~ .footer_link:hover) {
+    opacity: 0.4;
+  }
+
+  /* Contact Form Hover Styles */
+  .field_input {
+    text-decoration: none;
+    transition: 0.2s border-color ease;
+  }
+
+  .field_input:hover {
+    border-color: rgba(250, 250, 250, 0.24);
+  }
+
+  .field_radio-button {
+    transition: 0.2s border-color ease;
+  }
+
+  .field_radio-button:hover {
+    border-color: rgba(250, 250, 250, 0.24);
+  }
+
+  .field_radio-button .txt-color-light-60o {
+    transition: 0.2s color ease;
+  }
+
+  .field_radio-button:hover .txt-color-light-60o {
+    color: var(--light--main);
+  }
+
+  .contact_close-btn {
+    transition: 0.2s border-color ease;
+  }
+
+  .contact_close-btn .icon_embed20 {
+    transition: 0.3s opacity ease;
+  }
+
+  .contact_close-btn:hover {
+    border-color: rgba(250, 250, 250, 0.24);
+  }
+
+  .contact_close-btn:hover .icon_embed20 {
+    opacity: 0.6;
+  }
+}
+</style><script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.0/lottie.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+let mm = gsap.matchMedia();
+
+mm.add("(min-width: 992px)", () => {
+  document.fonts.ready.then(() => {
+    gsap.set("[data-hidden]", { visibility: "visible" });
+
+    const subtitleSplit = new SplitType(
+      ".template-hero_subtitle-wrap .txt-color-light-60o", {
+        types: "words, lines"
+      });
+
+    const tl = gsap.timeline();
+    tl.from("[heading-1]", {
+        opacity: 1,
+        scale: 0.5,
+        duration: 1,
+        ease: "expo.out",
+      }, 0)
+
+      .from("[heading-2]", {
+        opacity: 1,
+        scale: 0.5,
+        duration: 1,
+        ease: "expo.out",
+      }, 0)
+
+      .from("[heading-1-wrap]", {
+        y: "0em",
+        x: "-6em",
+        opacity: 0.2,
+        scale: 0.7,
+
+        duration: 1.6,
+        ease: "expo.inOut",
+      }, 0.2)
+
+      .from("[heading-2-wrap]", {
+        y: "0em",
+        scale: 0.7,
+        x: "6em",
+        opacity: 0.2,
+        duration: 1.6,
+        ease: "expo.inOut",
+      }, 0.2)
+
+      .from(".template_video-w", {
+        scale: 0,
+        opacity: 0,
+        ease: 'expo.out',
+        duration: 0.8,
+
+      }, 1)
+
+      .from(subtitleSplit.lines, {
+        y: "100%",
+        opacity: 0,
+        duration: 0.8,
+        ease: "power4.out",
+        stagger: 0.1,
+      }, 1)
+
+      .from(".template-hero_marquee-w", {
+        opacity: 0,
+        scale: 1.1,
+        ease: 'power4.out',
+        duration: 1,
+      }, 1.2)
+
+      .from(
+        ".template_cms .template_item:nth-child(1), .template_cms .template_item:nth-child(2)", {
+          y: 240,
+          opacity: 0,
+          ease: 'expo.out',
+          duration: 1.2,
+          stagger: 0.15
+        }, 1.2)
+
+      .from(".template_filters-c", {
+        y: "20vw",
+        duration: 1,
+        ease: "expo.out",
+      }, 1.4)
+
+      .from(".menu_logo-link", {
+        x: "-50vw",
+        scale: 1.2,
+        opacity: 0,
+        duration: 1.2,
+        ease: "expo.out",
+      }, 1.4)
+
+      .from(".menu_links .menu_link", {
+        y: "-10vw",
+        duration: 1.2,
+        ease: "expo.out",
+        stagger: {
+          each: 0.05,
+          from: "start"
+        }
+      }, 1.4)
+
+      .from(".menu_main-inner", {
+        x: "50vw",
+        scale: 1.2,
+        opacity: 0,
+        duration: 1.2,
+        ease: "expo.out",
+      }, 1.4)
+
+      .set(".template-hero_marquee-w", { pointerEvents: "auto" }, 1.4)
+      .set(".template-hero_section", { cursor: "auto" }, 1.4);
+
+  });
+
+  return () => gsap.killTweensOf("*");
+});
+
+mm.add("(max-width: 991px)", () => {
+  document.fonts.ready.then(() => {
+    gsap.set("[data-hidden]", { visibility: "visible" });
+
+    const subtitleSplit = new SplitType(
+      ".template-hero_subtitle-wrap .txt-color-light-60o", {
+        types: "words, lines"
+      });
+
+    const tl = gsap.timeline();
+    tl.from("[heading-1]", {
+        opacity: 0,
+        x: -200,
+        duration: 1,
+        ease: "expo.out",
+      }, 0)
+
+      .from("[heading-2]", {
+        opacity: 0,
+        x: 200,
+        duration: 1,
+        ease: "expo.out",
+      }, 0)
+
+      .from(subtitleSplit.lines, {
+        y: "100%",
+        opacity: 0,
+        duration: 0.8,
+        ease: "power4.out",
+        stagger: 0.1,
+      }, 0.2)
+
+      .from(".template_video-w", {
+        scale: 0,
+        opacity: 0,
+        ease: 'expo.out',
+        duration: 0.8,
+      }, 0.2)
+
+      .from(".template-hero_marquee-w", {
+        opacity: 0,
+        scale: 1.1,
+        ease: 'power4.out',
+        duration: 1,
+      }, 0.45)
+
+      .from(".template_filters-c", {
+        y: "20vw",
+        duration: 1,
+        ease: "expo.out",
+      }, 0.6)
+
+      .from(".menu_main-inner", {
+        scale: 1.2,
+        x: "50vw",
+        opacity: 0,
+        duration: 1.2,
+        ease: "expo.out",
+      }, 0.7)
+
+      .from(".menu_logo-link", {
+        scale: 1.2,
+        x: "-50vw",
+        opacity: 0,
+        duration: 1.2,
+        ease: "expo.out",
+      }, 0.7);
+
+  });
+});
+
+// Hover Effect on Marquee Items
+const marqueeItems = document.querySelectorAll(".marquee_item");
+
+marqueeItems.forEach(item => {
+  item.addEventListener("mouseenter", () => {
+    marqueeItems.forEach(otherItem => {
+      if (otherItem !== item) {
+        otherItem.style.opacity = 0.6;
+      }
+    });
+  });
+
+  item.addEventListener("mouseleave", () => {
+    marqueeItems.forEach(otherItem => {
+      otherItem.style.opacity = 1;
+    });
+  });
+});
+
+// Play Marquee Lotties 
+document.querySelectorAll(".marquee_lottie").forEach((currentElement) => {
+  const lottiePath = currentElement.getAttribute("data-lottie-path");
+
+  const lottieInstance = lottie.loadAnimation({
+    container: currentElement,
+    renderer: 'svg',
+    loop: false,
+    autoplay: true,
+    path: lottiePath,
+  });
+
+  function playWithDelay(instance, delay) {
+    setTimeout(() => {
+      instance.play();
+    }, delay);
+  }
+
+  lottieInstance.addEventListener("complete", () => {
+    setTimeout(() => {
+      lottieInstance.setDirection(lottieInstance.playDirection === 1 ? -1 : 1);
+      lottieInstance.goToAndStop(
+        lottieInstance.playDirection === 1 ? 0 : lottieInstance.totalFrames - 1,
+        true
+      );
+      playWithDelay(lottieInstance, 100); // 0.1s delay after reversing direction
+    }, 100); // 0.1s delay before reversing direction
+  });
+});
+
+// Cursor Follow mouse
+let cursorItem = document.querySelector(".cursor");
+let cursorParagraph = cursorItem.querySelector("p");
+let cursorArrow = cursorItem.querySelector(".cursor_icon");
+let targets = document.querySelectorAll("[data-cursor]");
+let xOffset = 10;
+let yOffset = 40;
+let currentTarget = null;
+let lastText = '';
+
+gsap.set(cursorItem, { xPercent: xOffset, yPercent: yOffset });
+
+let xTo = gsap.quickTo(cursorItem, "x", { ease: "power3" });
+let yTo = gsap.quickTo(cursorItem, "y", { ease: "power3" });
+
+window.addEventListener("mousemove", e => {
+  let scrollY = window.scrollY;
+  let cursorX = e.clientX;
+  let cursorY = e.clientY + scrollY;
+
+  gsap.to(cursorItem, {
+    xPercent: xOffset,
+    yPercent: yOffset,
+    duration: 0.3,
+    ease: "power3"
+  });
+
+  xTo(cursorX);
+  yTo(cursorY - scrollY);
+});
+
+targets.forEach(target => {
+  target.addEventListener("mouseenter", () => {
+    currentTarget = target;
+    let newText = target.getAttribute("data-cursor");
+
+    if (newText !== lastText) {
+      cursorParagraph.innerHTML = newText;
+      lastText = newText;
+    }
+
+    // Show or hide the icon based on presence of data-cursor-arrow
+    if (target.matches("[data-cursor][data-cursor-arrow]")) {
+      cursorArrow.style.display = "block";
+    } else {
+      cursorArrow.style.display = "none";
+    }
+  });
+
+  target.addEventListener("mouseleave", () => {
+    cursorArrow.style.display = "none";
+  });
+});
+
+// Grid Items Parallax
+mm.add("(min-width: 992px)", () => {
+  const gridItems = document.querySelectorAll(".template_item");
+  const indices = [1, 7, 13];
+  const indicesM = [2, 8, 14];
+  const indicesL = [5, 11, 17];
+  const indicesXl = [4, 10, 16];
+
+  indices.forEach(index => {
+    if (gridItems[index]) {
+      const item = gridItems[index];
+      item.setAttribute("data-parallax-s", "");
+
+      gsap.fromTo(item, { y: 0 },
+      {
+        y: 200,
+        scrollTrigger: {
+          trigger: item,
+          start: "top bottom",
+          end: "bottom top",
+          scrub: true,
+        }
+      });
+    }
+  });
+
+  indicesM.forEach(index => {
+    if (gridItems[index]) {
+      const item = gridItems[index];
+      item.setAttribute("data-parallax-m", "");
+
+      gsap.fromTo(item, { y: 0 },
+      {
+        y: -120,
+        scrollTrigger: {
+          trigger: item,
+          start: "top bottom",
+          end: "bottom top",
+          scrub: true,
+        }
+      });
+    }
+  });
+
+  indicesL.forEach(index => {
+    if (gridItems[index]) {
+      const item = gridItems[index];
+      item.setAttribute("data-parallax-l", "");
+
+      gsap.fromTo(item, { y: 0 },
+      {
+        y: 70,
+        scrollTrigger: {
+          trigger: item,
+          start: "top bottom",
+          end: "bottom top",
+          scrub: true,
+        }
+      });
+    }
+  });
+
+  indicesXl.forEach(index => {
+    if (gridItems[index]) {
+      const item = gridItems[index];
+      item.setAttribute("data-parallax-xl", "");
+
+      gsap.fromTo(item, { y: 0 },
+      {
+        y: -70,
+        scrollTrigger: {
+          trigger: item,
+          start: "top bottom",
+          end: "bottom top",
+          scrub: true,
+        }
+      });
+    }
+  });
+});
+
+// Logo Animation While Scrolling
+gsap.to("[data-scroll-padding]", {
+  paddingBottom: "0rem",
+  scrollTrigger: {
+    trigger: ".template-hero_section",
+    start: "top top",
+    end: "bottom 70%",
+    scrub: true,
+  }
+});
+
+gsap.to("[data-scroll-fade]", {
+  opacity: 0,
+  scale: 0.4,
+  scrollTrigger: {
+    trigger: ".template-hero_section",
+    start: "top top",
+    end: "bottom 70%",
+    scrub: true,
+  }
+});
+
+// Filters Hide when Footers enters in view
+gsap.fromTo(
+  ".template_filters-c", { autoAlpha: 1, pointerEvents: "auto" },
+  {
+    autoAlpha: 0,
+    pointerEvents: "none",
+    duration: 0.4,
+    ease: "expo.out",
+    scrollTrigger: {
+      trigger: ".footer",
+      start: "top bottom",
+      toggleActions: "play reverse play reverse",
+    },
+  }
+);
+});
+
+</script>
+
+
+<script>
+function initMarqueeScrollDirection() {
+  document.querySelectorAll('[data-marquee-scroll-direction-target]').forEach((marquee) => {
+    // Query marquee elements
+    const marqueeContent = marquee.querySelector('[data-marquee-collection-target]');
+    const marqueeScroll = marquee.querySelector('[data-marquee-scroll-target]');
+    if (!marqueeContent || !marqueeScroll) return;
+
+    // Get data attributes
+    const {
+      marqueeSpeed: speed,
+      marqueeDirection: direction,
+      marqueeDuplicate: duplicate,
+      marqueeScrollSpeed: scrollSpeed
+    } = marquee.dataset;
+
+    // Convert data attributes to usable types
+    const marqueeSpeedAttr = parseFloat(speed);
+    const marqueeDirectionAttr = direction === 'right' ? 1 : -1; // 1 for right, -1 for left
+    const duplicateAmount = parseInt(duplicate || 0);
+    const scrollSpeedAttr = parseFloat(scrollSpeed);
+    const speedMultiplier = window.innerWidth < 479 ? 0.25 : window.innerWidth < 991 ? 0.5 : 1;
+
+    let marqueeSpeed = marqueeSpeedAttr * (marqueeContent.offsetWidth / window.innerWidth) *
+      speedMultiplier;
+
+    // Precompute styles for the scroll container
+    marqueeScroll.style.marginLeft = `${scrollSpeedAttr * -1}%`;
+    marqueeScroll.style.width = `${(scrollSpeedAttr * 2) + 100}%`;
+
+    // Duplicate marquee content
+    if (duplicateAmount > 0) {
+      const fragment = document.createDocumentFragment();
+      for (let i = 0; i < duplicateAmount; i++) {
+        fragment.appendChild(marqueeContent.cloneNode(true));
+      }
+      marqueeScroll.appendChild(fragment);
+    }
+
+    // GSAP animation for marquee content
+    const marqueeItems = marquee.querySelectorAll('[data-marquee-collection-target]');
+    const animation = gsap.to(marqueeItems, {
+      xPercent: -100, // Move completely out of view
+      repeat: -1,
+      duration: marqueeSpeed,
+      ease: 'linear'
+    }).totalProgress(0.5);
+
+    // Initialize marquee in the correct direction
+    gsap.set(marqueeItems, { xPercent: marqueeDirectionAttr === 1 ? 100 : -100 });
+    animation.timeScale(marqueeDirectionAttr); // Set correct direction
+    animation.play(); // Start animation immediately
+
+    // Set initial marquee status
+    marquee.setAttribute('data-marquee-status', 'normal');
+
+    // ScrollTrigger logic for direction inversion
+    ScrollTrigger.create({
+      trigger: marquee,
+      start: 'top bottom',
+      end: 'bottom top',
+      onUpdate: (self) => {
+        const isInverted = self.direction === 1; // Scrolling down
+        const currentDirection = isInverted ? -marqueeDirectionAttr :
+          marqueeDirectionAttr;
+
+        // Update animation direction and marquee status
+        animation.timeScale(currentDirection);
+        marquee.setAttribute('data-marquee-status', isInverted ? 'normal' : 'inverted');
+      }
+    });
+
+    // Extra speed effect on scroll
+    const tl = gsap.timeline({
+      scrollTrigger: {
+        trigger: marquee,
+        start: '0% 100%',
+        end: '100% 0%',
+        scrub: 0
+      }
+    });
+
+    const scrollStart = marqueeDirectionAttr === -1 ? scrollSpeedAttr : -scrollSpeedAttr;
+    const scrollEnd = -scrollStart;
+
+    tl.fromTo(marqueeScroll, { x: `${scrollStart}vw` }, { x: `${scrollEnd}vw`, ease: 'none' });
+  });
+}
+
+// Initialize Marquee with Scroll Direction
+document.addEventListener('DOMContentLoaded', () => {
+  initMarqueeScrollDirection();
+});
+
+</script></body></html>
